@@ -1,8 +1,9 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20render&fontSize=90" />
+
 
 <h1 align="center"></h1>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=hello%20render&fontSize=90" />
 👓Frontend: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/NextJS-purple?style=flat-square&logo=NextJS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/p5.js-pink?style=flat-square&logo=p5.js&logoColor=white"/></a>&nbsp;
