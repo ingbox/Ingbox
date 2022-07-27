@@ -6,7 +6,7 @@
 Hi, Have a good One.<br>
 I'm Ingb. This is my Super Stacker Page!!<br>
 
-More Info?? Visit down below<br>
+<b>More Info??</b> Visit down below<br>
 <a href="ingbox.github.io"><img src="https://img.shields.io/badge/Ingbox blog-blue?style=flat-square&logo=GitHub Pages&logoColor=white&link=ingbox.github.io"/></a>&nbsp
   
 <h2>😉 Tech Stack 😉</h2><br>
