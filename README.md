@@ -1,7 +1,3 @@
-<style>
-.aligncenter{display:block;margin:0 auto}
-</style>
-
 <h1 align="center">My name is JiSeop, But everybody calls me Ingb 👋</h1>
 
 <div align="center">
@@ -26,5 +22,4 @@
 <br>
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingbox&layout=compact)](https://github.com/Ingbox/github-readme-stats)
-
+&nbsp;[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingbox&layout=compact)](https://github.com/Ingbox/github-readme-stats)
