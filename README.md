@@ -1,4 +1,4 @@
-<h1>My name is JiSeop, But everybody calls me Ingb 👋</h1>
+<h1 align="center">My name is JiSeop, But everybody calls me Ingb 👋</h1>
 
 <div align="center">
 👓Frontend: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
