@@ -1,4 +1,4 @@
-<h1 align="center" background-image=url("https://yt3.ggpht.com/ytc/AKedOLRLfUJ--CMea7M9vsn3XnZk9Ocx2ZAZF9i6bWtT=s900-c-k-c0x00ffffff-no-rj")>My name is JiSeop, But everybody calls me Ingb 👋</h1>
+<h1 align="center">My name is JiSeop, But everybody calls me Ingb 👋</h1>
 
 <div align="center">
 👓Frontend: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
@@ -19,3 +19,6 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp;
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingbox&layout=compact)](https://github.com/Ingbox/github-readme-stats)
