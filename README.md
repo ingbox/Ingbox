@@ -1,7 +1,7 @@
 
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20name%20is%20Jiseop,%20but%20everybody%20calls%20me%20 Ingb&fontSize=35&animation=fadeIn&stroke=00FF00"/><br>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20name%20is%20Jiseop,%20but%20everybody%20calls%20me%20 Ingb&fontSize=35&animation=fadeIn&stroke=auto"/><br>
 <h2>👋 Hi 👋</h2><br> 
 Hi, Have a good One.<br>
 I'm Ingb. This is my Super Stacker Page!!<br><br>
