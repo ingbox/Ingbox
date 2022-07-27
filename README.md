@@ -7,7 +7,7 @@ Hi, Have a good One.<br>
 I'm Ingb. This is my Super Stacker Page!!<br><br>
 
 <b>More Info??</b> Visit down below👇👇<br>
-<b>Github blog:</b> <a href="ingbox.github.io"><img src="https://img.shields.io/badge/Ingbox blog-gray?style=flat-square&logo=GitHub Pages&logoColor=white&link=ingbox.github.io"/></a><br>
+<b>Github blog:</b> <a href="https://ingbox.github.io"><img src="https://img.shields.io/badge/Ingbox blog-gray?style=flat-square&logo=GitHub Pages&logoColor=white&link=https://ingbox.github.io"/></a><br>
 <b>Portfolio:</b> <a href="https://react-portfolio-ashen-six.vercel.app"><img src="https://img.shields.io/badge/My Portfolio-blue?style=flat-square&logo=GitHub Pages&logoColor=white&link=https://react-portfolio-ashen-six.vercel.app"/></a>
   
 <h2>😉 Tech Stack 😉</h2><br>
