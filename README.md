@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1>My name is Giovanni Giorgio, but everybody calls me Giorgio 👋</h1>
 
 <div align="center">
 👓Frontend: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
