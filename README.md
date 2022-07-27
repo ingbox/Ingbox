@@ -30,7 +30,7 @@ I'm Ingb. This is my Super Stacker Page!!<br><br>
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp;
 
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=capsule%20render&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=&fontSize=90" />
 </div>
 <br>
 <br>
