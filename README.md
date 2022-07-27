@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 <h1 align="center">My name is JiSeop, But everybody calls me Ingb 👋</h1>
 
 <div align="center">
@@ -23,5 +25,3 @@
 <br>
 <br>
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingbox&layout=compact)](https://github.com/Ingbox/github-readme-stats)
