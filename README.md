@@ -19,6 +19,8 @@
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp;
 </div>
-
-
+<br>
+<br>
+<div align="center">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingbox&layout=compact)](https://github.com/Ingbox/github-readme-stats)
+</div>
