@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[](https://img.shields.io/badge/Python-orange?style=flat-square&logo=Python&logoColor=white")&nbsp 
+<img src="https://img.shields.io/badge/Python-orange?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
