@@ -22,5 +22,4 @@
 <br>
 <br>
 
-<center>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingbox&layout=compact)](https://github.com/Ingbox/github-readme-stats)
-</center>
+<center/>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ingbox&layout=compact)](https://github.com/Ingbox/github-readme-stats)
