@@ -28,10 +28,12 @@ I'm Ingb. This is my Super Stacker Page!!<br><br>
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp;
+
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=150&section=footer&text=capsule%20render&fontSize=90" />
 </div>
 <br>
 <br>
 <br>
 <br>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
