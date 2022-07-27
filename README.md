@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="center">
+<div align="center">
 👓Frontend: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/NextJS-purple?style=flat-square&logo=NextJS&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/p5.js-pink?style=flat-square&logo=p5.js&logoColor=white"/></a>&nbsp;
@@ -18,4 +18,4 @@
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>&nbsp;
-</p>
+</div>
