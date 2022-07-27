@@ -3,6 +3,7 @@
 <h1 align="center"></h1>
 
 <div align="center">
+😉 Tech Stack 😉
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20name%20is%20Jiseop,%20but%20everybody%20calls%20me%20 Ingb&fontSize=35"/><br>
 👓Frontend: <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/NextJS-purple?style=flat-square&logo=NextJS&logoColor=white"/></a>&nbsp;
